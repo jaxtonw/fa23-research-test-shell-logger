@@ -18,7 +18,7 @@ compress_logfiles() {
 
 I have created the file '$COMPRESSED_FILE_NAME.tgz'
 
-Please email this file to jaxton.winder@usu.edu"
+Please email this file to jaxton.winder@usu.edu\n"
 		else
 			printf "\
 I am unable to compress the log files for you... 
@@ -38,7 +38,7 @@ Contact: jaxton.winder@usu.edu\n"
 
 I have created the file '$COMPRESSED_FILE_NAME.zip'
 
-Please email this file to jaxton.winder@usu.edu"
+Please email this file to jaxton.winder@usu.edu\n"
 		else
 			printf "\
 I am unable to compress the log files for you... 

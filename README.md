@@ -4,6 +4,8 @@ This repository will serve as a test for the shell logger. Follow the instructio
 
 First, ensure your system meets the [tech requirement](#tech-requirements). Next, follow the instructions in [getting started](#getting-started). After that, you may begin to [complete the tasks](#completing-the-tasks). Finally, upon finishing all the tasks, or the test time being completed, follow the instructions for [finishing the test](#finishing-the-test), where you will be sharing the produced log files with the researchers. If at any point you encounter issues, compress this entire folder and contact the researchers, following the instructions in the [contact section of this document](#contact).
 
+Need help remembering some commands? See the [command help](#command-help) section.
+
 
 ## Tech Requirements
 
@@ -43,3 +45,13 @@ Upon finishing the test, either by finishing all the tasks or running out of tim
 ## Contact
 Encountered an issue with the test? Contact [jaxton.winder@usu.edu](mailto:jaxton.winder@usu.edu) and explain the issue. If possible, compress this entire directory and attach it in your email to aide the researchers in diagnosing the issue.
 
+## Command Help
+Forgot some shell commands? Here's a few that might come in handy!
+
+*   `man`
+    *   Look at the `man` page for a command, to find out more information about it
+    *   EX: `man ls` to view more about the `ls` command
+*   `cd`
+    *   Change directories
+*   `ls`
+    *   List the contents of a directory
