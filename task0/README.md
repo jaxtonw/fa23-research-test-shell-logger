@@ -2,9 +2,9 @@
 
 To complete this task, do the following:
 
-*   Change directories into `subfolder1`, contained inside of `folder1`
+*   Change directories into `subfolder0`, contained inside of `folder0`
     *   See what is in this directory
-*   Navigate to `subfolder2`, also contained inside of `folder1`
+*   Navigate to `subfolder0`, also contained inside of `folder0`
     *   See what is in this directory
-*   See what is in `folder2`
+*   See what is in `folder1`
 *   Execute `./done.sh`

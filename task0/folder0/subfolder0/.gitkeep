@@ -1,0 +1,3 @@
+Because `git` doesn't like to keep track of folders that are empty, these `.gitkeep` files are a standard to force `git` to keep track of "empty" folders. Neat!
+
+Usually this file is just left empty, but I thought I would satiate your curiousity :)

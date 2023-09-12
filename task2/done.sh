@@ -1,11 +1,10 @@
 COMPLETED=0
 
-if [[ $1 == 1 ]]; then
+if [[ ! -d delete-me ]]; then
     echo "You've completed this task!"
     COMPLETED=0
 else
-    echo "Hmmm... you didn't seem to give me the argument '1'"
-    echo "You gave me: '$1'"
+    echo "Hmmm... you didn't seem to delete the 'delete-me' folder yet"
     echo "Try again?"
     COMPLETED=1
 fi
