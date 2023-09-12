@@ -1,0 +1,1 @@
+source .logr/main.sh
